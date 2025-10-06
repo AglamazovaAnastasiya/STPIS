@@ -1,3 +1,5 @@
+# calculator.py - модуль калькулятора
+
 def add(a, b):
     return a + b
 

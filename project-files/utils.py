@@ -1,3 +1,5 @@
+# utils.py - вспомогательные функции
+
 import datetime
 
 def get_current_time():
